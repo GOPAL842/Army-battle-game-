@@ -16,3 +16,9 @@ canvas {
   display: block;
   margin: auto;
 }
+
+#status {
+  margin-top: 10px;
+  font-size: 22px;
+  color: green;
+}
